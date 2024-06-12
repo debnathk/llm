@@ -12,8 +12,9 @@ This Streamlit application generates blog content using the Mistral-7B-Instruct-
 ### Create environemnt
 Create a conda environment:
 
-```sh
+```
 conda create -p venv python==3.9
+```
 
 ### Install Dependencies
 Install the required Python packages using pip:
