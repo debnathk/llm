@@ -19,11 +19,31 @@ conda create -p venv python==3.9
 ### Install Dependencies
 Install the required Python packages using pip:
 
-```sh
-pip install -r requirements
+```
+pip install -r requirements.txt
+```
 
 ### Clone the Repository
 
-```sh
-git clone https://github.com/yourusername/blog-generator.git
+```
+git clone https://github.com/debnathk/llm.git
 cd blog-generator
+```
+
+### Set Up Hugging Face API Token
+You need a Hugging Face API token to access the model. Follow these steps to create one:
+1. Go to the Hugging Face website.
+If you don't have an account, sign up for a new account.
+Log in to your account.
+Navigate to your account settings by clicking on your profile picture in the top-right corner and selecting "Settings".
+In the settings menu, click on "Access Tokens".
+Click on the "New Token" button.
+Give your token a descriptive name, select the scope (e.g., read), and click "Generate".
+Copy the generated token.
+Replace the placeholder token in the code with your actual Hugging Face API token.
+
+### Run the application
+
+```
+streamlit run app.py
+```
