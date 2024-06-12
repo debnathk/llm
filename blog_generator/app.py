@@ -5,7 +5,7 @@ from langchain.prompts import PromptTemplate
 from langchain_huggingface import HuggingFaceEndpoint
 
 # Save the huggingface token as env variable
-hf_token = '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'
+hf_token = 'paste_your_token_here'
 os.environ['hf_token'] = hf_token
 
 # Huggingface Endpoint - Accessing huggingface models using API

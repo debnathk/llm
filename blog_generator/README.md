@@ -33,14 +33,14 @@ cd blog-generator
 ### Set Up Hugging Face API Token
 You need a Hugging Face API token to access the model. Follow these steps to create one:
 1. Go to the Hugging Face website.
-If you don't have an account, sign up for a new account.
-Log in to your account.
-Navigate to your account settings by clicking on your profile picture in the top-right corner and selecting "Settings".
-In the settings menu, click on "Access Tokens".
-Click on the "New Token" button.
-Give your token a descriptive name, select the scope (e.g., read), and click "Generate".
-Copy the generated token.
-Replace the placeholder token in the code with your actual Hugging Face API token.
+2. If you don't have an account, sign up for a new account.
+3. Log in to your account.
+4. Navigate to your account settings by clicking on your profile picture in the top-right corner and selecting "Settings".
+5. In the settings menu, click on "Access Tokens".
+6. Click on the "New Token" button.
+7. Give your token a descriptive name, select the scope (e.g., read), and click "Generate".
+8. Copy the generated token.
+9. Replace the placeholder token in the code with your actual Hugging Face API token.
 
 ### Run the application
 
