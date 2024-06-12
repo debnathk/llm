@@ -9,6 +9,18 @@ This Streamlit application generates blog content using the Mistral-7B-Instruct-
 - Specify the number of words for the blog.
 - Generate the blog content using the Hugging Face Mistral-7B-Instruct-v0.3 model.
 
+### Create environemnt
+Create a conda environment:
+
+```sh
+conda create -p venv python==3.9
+
+### Install Dependencies
+Install the required Python packages using pip:
+
+```sh
+pip install -r requirements
+
 ### Clone the Repository
 
 ```sh
