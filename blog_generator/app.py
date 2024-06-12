@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from langchain.prompts import PromptTemplate
-from langchain_community.llms import CTransformers
+# from langchain_community.llms import CTransformers
 from langchain_huggingface import HuggingFaceEndpoint
 
 # Save the huggingface token as env variable
