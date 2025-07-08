@@ -1,0 +1,25 @@
+--- Research Output ---
+Timestamp: 2025-07-07 19:53:54
+
+World Economics
+
+--- Research Output ---
+Timestamp: 2025-07-07 19:59:11
+
+Global warming refers to the long-term warming of the planet due to human activities, primarily the emission of greenhouse gases from fossil fuel consumption, deforestation, and industrial processes. This phenomenon has led to significant changes in climate patterns, with effects such as rising sea levels, increased frequency of extreme weather events, and impacts on ecosystems and wildlife. Scientists have warned that without significant action to reduce greenhouse gas emissions, the consequences of global warming could lead to irreversible damage to the planet's climate system.
+
+--- Research Output ---
+Timestamp: 2025-07-07 20:00:02
+
+global warming
+
+--- Research Output ---
+Timestamp: 2025-07-07 20:01:20
+
+ai, save to a file
+
+--- Research Output ---
+Timestamp: 2025-07-07 20:01:51
+
+{"topic":"Artificial Intelligence Impact on Society","summary":"This research paper explores the various ways in which artificial intelligence (AI) is impacting society today. It examines both the positive and negative implications of AI technology across different sectors including healthcare, education, and employment. Additionally, it discusses ethical considerations and potential future developments in the field of AI.","sources":["https://www.technologyreview.com/2022/04/15/1061784/ai-in-education/","https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-changing-the-healthcare-industry/","https://www.worldeconomicforum.org/agenda/2020/10/ai-future-work-employment-education/"],"tools_used":["web search","text file save"]}
+

@@ -5,3 +5,4 @@ langchain-anthropic
 langchain-openai
 python-dotenv
 pydantic
+duckduckgo-search
