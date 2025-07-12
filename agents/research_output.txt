@@ -23,3 +23,8 @@ Timestamp: 2025-07-07 20:01:51
 
 {"topic":"Artificial Intelligence Impact on Society","summary":"This research paper explores the various ways in which artificial intelligence (AI) is impacting society today. It examines both the positive and negative implications of AI technology across different sectors including healthcare, education, and employment. Additionally, it discusses ethical considerations and potential future developments in the field of AI.","sources":["https://www.technologyreview.com/2022/04/15/1061784/ai-in-education/","https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-changing-the-healthcare-industry/","https://www.worldeconomicforum.org/agenda/2020/10/ai-future-work-employment-education/"],"tools_used":["web search","text file save"]}
 
+--- Research Output ---
+Timestamp: 2025-07-07 20:32:18
+
+{"topic": "Artificial Intelligence in Healthcare", "summary": "This paper examines the influential role of artificial intelligence in enhancing healthcare delivery, focusing on diagnostic tools, patient management systems, and predictive analytics. We discuss the ethical implications and potential future developments of AI technology in clinical settings.", "sources": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6607894/", "https://www.sciencedirect.com/science/article/pii/S2589004220300611", "https://www.who.int/newsroom/fact-sheets/detail/artificial-intelligence-systems-in-healthcare"], "tools_used": ["Web search", "Wikipedia"]}
+
