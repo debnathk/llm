@@ -1,0 +1,5 @@
+torch
+matplotlib
+numpy<2.0
+ipykernel
+pylzma
